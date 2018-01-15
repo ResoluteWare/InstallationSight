@@ -5,7 +5,15 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{7582405E-E2BD-4D9B-BFB7-E33562EDAA93}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResoluteWare.InstallationSight.Client", "..\ResoluteWare.InstallationSight.Client\ResoluteWare.InstallationSight.Client.csproj", "{8ABE4BA5-863E-49FD-9245-38932FE236E6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{E889B4A0-77DF-420F-A956-63315BD97B53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Middleware", "Middleware", "{309E7CC4-6255-4380-BA3C-6BF2AD93B7C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResoluteWare.InstallationSight.Client", "..\Clients\ResoluteWare.InstallationSight.Client\ResoluteWare.InstallationSight.Client.csproj", "{4987858D-184B-4BEE-85B9-713EF8CB8DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResoluteWare.InstallationSight", "..\Middleware\ResoluteWare.InstallationSight\ResoluteWare.InstallationSight.csproj", "{49256830-414E-417D-8823-7B8D9B42520E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResoluteWare.InstallationSight.Service", "..\Services\ResoluteWare.InstallationSight.Service\ResoluteWare.InstallationSight.Service.csproj", "{3F722906-48F0-4403-9EE8-77378CEB2CFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +21,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8ABE4BA5-863E-49FD-9245-38932FE236E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8ABE4BA5-863E-49FD-9245-38932FE236E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8ABE4BA5-863E-49FD-9245-38932FE236E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8ABE4BA5-863E-49FD-9245-38932FE236E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4987858D-184B-4BEE-85B9-713EF8CB8DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4987858D-184B-4BEE-85B9-713EF8CB8DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4987858D-184B-4BEE-85B9-713EF8CB8DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4987858D-184B-4BEE-85B9-713EF8CB8DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49256830-414E-417D-8823-7B8D9B42520E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49256830-414E-417D-8823-7B8D9B42520E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49256830-414E-417D-8823-7B8D9B42520E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49256830-414E-417D-8823-7B8D9B42520E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F722906-48F0-4403-9EE8-77378CEB2CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F722906-48F0-4403-9EE8-77378CEB2CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F722906-48F0-4403-9EE8-77378CEB2CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F722906-48F0-4403-9EE8-77378CEB2CFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{8ABE4BA5-863E-49FD-9245-38932FE236E6} = {7582405E-E2BD-4D9B-BFB7-E33562EDAA93}
+		{4987858D-184B-4BEE-85B9-713EF8CB8DAF} = {7582405E-E2BD-4D9B-BFB7-E33562EDAA93}
+		{49256830-414E-417D-8823-7B8D9B42520E} = {309E7CC4-6255-4380-BA3C-6BF2AD93B7C2}
+		{3F722906-48F0-4403-9EE8-77378CEB2CFA} = {E889B4A0-77DF-420F-A956-63315BD97B53}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3797DC95-1E79-478D-BDE9-99E8ECD3BCE6}

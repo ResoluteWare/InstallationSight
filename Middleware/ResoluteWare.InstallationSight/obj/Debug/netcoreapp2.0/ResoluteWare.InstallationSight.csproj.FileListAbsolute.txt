@@ -1,0 +1,8 @@
+D:\Working\ResoluteWare\InstallationSight\Middleware\ResoluteWare.InstallationSight\bin\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.deps.json
+D:\Working\ResoluteWare\InstallationSight\Middleware\ResoluteWare.InstallationSight\bin\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.dll
+D:\Working\ResoluteWare\InstallationSight\Middleware\ResoluteWare.InstallationSight\bin\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.pdb
+D:\Working\ResoluteWare\InstallationSight\Middleware\ResoluteWare.InstallationSight\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.csproj.CoreCompileInputs.cache
+D:\Working\ResoluteWare\InstallationSight\Middleware\ResoluteWare.InstallationSight\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.AssemblyInfoInputs.cache
+D:\Working\ResoluteWare\InstallationSight\Middleware\ResoluteWare.InstallationSight\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.AssemblyInfo.cs
+D:\Working\ResoluteWare\InstallationSight\Middleware\ResoluteWare.InstallationSight\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.dll
+D:\Working\ResoluteWare\InstallationSight\Middleware\ResoluteWare.InstallationSight\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.pdb

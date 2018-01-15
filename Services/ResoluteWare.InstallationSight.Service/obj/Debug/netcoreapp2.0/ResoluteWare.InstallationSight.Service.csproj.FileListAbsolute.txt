@@ -1,0 +1,13 @@
+D:\Working\ResoluteWare\InstallationSight\Services\ResoluteWare.InstallationSight.Service\bin\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.Service.deps.json
+D:\Working\ResoluteWare\InstallationSight\Services\ResoluteWare.InstallationSight.Service\bin\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.Service.runtimeconfig.json
+D:\Working\ResoluteWare\InstallationSight\Services\ResoluteWare.InstallationSight.Service\bin\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.Service.runtimeconfig.dev.json
+D:\Working\ResoluteWare\InstallationSight\Services\ResoluteWare.InstallationSight.Service\bin\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.Service.dll
+D:\Working\ResoluteWare\InstallationSight\Services\ResoluteWare.InstallationSight.Service\bin\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.Service.pdb
+D:\Working\ResoluteWare\InstallationSight\Services\ResoluteWare.InstallationSight.Service\bin\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.dll
+D:\Working\ResoluteWare\InstallationSight\Services\ResoluteWare.InstallationSight.Service\bin\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.pdb
+D:\Working\ResoluteWare\InstallationSight\Services\ResoluteWare.InstallationSight.Service\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.Service.csprojResolveAssemblyReference.cache
+D:\Working\ResoluteWare\InstallationSight\Services\ResoluteWare.InstallationSight.Service\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.Service.csproj.CoreCompileInputs.cache
+D:\Working\ResoluteWare\InstallationSight\Services\ResoluteWare.InstallationSight.Service\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.Service.AssemblyInfoInputs.cache
+D:\Working\ResoluteWare\InstallationSight\Services\ResoluteWare.InstallationSight.Service\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.Service.AssemblyInfo.cs
+D:\Working\ResoluteWare\InstallationSight\Services\ResoluteWare.InstallationSight.Service\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.Service.dll
+D:\Working\ResoluteWare\InstallationSight\Services\ResoluteWare.InstallationSight.Service\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.Service.pdb
