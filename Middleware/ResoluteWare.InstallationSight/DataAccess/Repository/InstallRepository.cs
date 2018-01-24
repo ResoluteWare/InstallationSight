@@ -17,5 +17,10 @@ namespace ResoluteWare.InstallationSight.DataAccess.Repository
         {
             throw new NotImplementedException();
         }
+
+        public void PersistInstallEvent(List<InstallEventDto> installEventDtos)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

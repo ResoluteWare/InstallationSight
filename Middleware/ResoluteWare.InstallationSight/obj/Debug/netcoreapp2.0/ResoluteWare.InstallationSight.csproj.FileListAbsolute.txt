@@ -6,3 +6,4 @@ D:\Working\ResoluteWare\InstallationSight\Middleware\ResoluteWare.InstallationSi
 D:\Working\ResoluteWare\InstallationSight\Middleware\ResoluteWare.InstallationSight\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.AssemblyInfo.cs
 D:\Working\ResoluteWare\InstallationSight\Middleware\ResoluteWare.InstallationSight\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.dll
 D:\Working\ResoluteWare\InstallationSight\Middleware\ResoluteWare.InstallationSight\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.pdb
+D:\Working\ResoluteWare\InstallationSight\Middleware\ResoluteWare.InstallationSight\obj\Debug\netcoreapp2.0\ResoluteWare.InstallationSight.csprojResolveAssemblyReference.cache
