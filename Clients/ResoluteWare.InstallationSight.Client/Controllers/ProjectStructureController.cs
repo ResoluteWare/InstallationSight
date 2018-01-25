@@ -12,6 +12,8 @@ namespace ResoluteWare.InstallationSight.Client.Controllers
     {
         
 
+     
+
         [HttpGet("[action]")]
         public Project LoadProject(int projectId)
         {
@@ -23,6 +25,6 @@ namespace ResoluteWare.InstallationSight.Client.Controllers
             };
         }
 
-       
+
     }
 }

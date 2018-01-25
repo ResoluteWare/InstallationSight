@@ -14,17 +14,19 @@ export interface ProjectStructureState {
 
 export interface Project {
     buildingId: number;
-    building: Building[];
+    buildings: Building[];
 }
 
 export interface Building {
     buildingId: number;
     buildingName: string;
+    floors: Floor[];
 }
 
 export interface Floor {
     floorId: number;
     floorName: string;
+    rooms: Room[];
 }
 
 export interface Room {
